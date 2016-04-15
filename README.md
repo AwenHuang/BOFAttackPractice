@@ -1,7 +1,7 @@
 # BOFAttackPractice
 use python 
 
-Learn buffer overflow attack and really try by yourself is very intresting. 
+Learn buffer overflow attack and try by yourself is very interesting. 
 
 Through these basic implementation can know more about security of system.
 
